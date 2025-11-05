@@ -54,11 +54,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWasithai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulwasithali&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulWasithai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulwasithali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasithai&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwasithali&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 🖼️ Fun Developer Banner
 
 <p align="center">
-  <img src="https://i.ibb.co/k3gQxPm/dev-banner.gif" alt="Developer Banner" width="600"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Banner" width="600"/>
 </p>
 
 ---
