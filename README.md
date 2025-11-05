@@ -61,7 +61,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwasithali&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-top: 20px;" />
 </p>
----
 
 ## 🖼️ Fun Developer Banner
 
