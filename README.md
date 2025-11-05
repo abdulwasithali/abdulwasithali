@@ -50,20 +50,18 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulwasithali&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulwasithali&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-bottom: 20px;" />
   <br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwasithali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwasithali&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin: 20px 0;" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwasithali&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwasithali&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-top: 20px;" />
 </p>
-
 ---
-
 
 
 ## 💬 Quote
