@@ -63,6 +63,12 @@
 </p>
 
 
+## 🖼 Fun Developer Banner
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Banner" width="600"/>
+</p>
+
 
 ## 💬 Quote
 
