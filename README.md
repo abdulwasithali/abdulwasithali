@@ -53,14 +53,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulwasithali&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulwasithali&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwasithali&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin: 20px 0;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwasithali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwasithali&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-top: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwasithali&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
+
 
 
 ## 🖼 Fun Developer Banner
