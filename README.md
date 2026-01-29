@@ -29,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,html,css,js,figma,git,github" />
 </p>
 
-
 ---
 
 ## 🌐 Connect With Me
