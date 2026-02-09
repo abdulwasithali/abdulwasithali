@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=B.Tech+in+Computer+Science+and+Engineering;Flutter+Developer+💙;Python+Developer+🐍;UI%2FUX+Designer+🎨;Coding+is+my+Caffeine+☕" alt="Typing SVG" />
   </a>
 </p>
-
 ---
 ## 🧑‍💻 About Me
 
